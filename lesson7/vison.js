@@ -7,8 +7,6 @@ function myFn() {
     b = 10
     console.log(b)
 }
-
 myFn()
-
 console.log(a)
 console.log(b)
